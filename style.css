@@ -36,8 +36,8 @@ nav{
 }
 .middle-side{
     display: flex;
-    gap: 21px;
-    width: 44.5vw;
+    gap: 15px;
+    width: 44vw;
     align-items: center;
 }
 .middle-1{
@@ -50,15 +50,15 @@ nav{
     height: 30px;
     border: none;
     outline: none;
-    border-top-left-radius: 14px;
-    border-bottom-left-radius: 14px;
+    border-top-left-radius: 17px;
+    border-bottom-left-radius: 17px;
     padding: 20px;
     font-size: 15px;
 }
 #btn1{
     border: none;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-top-right-radius: 17px;
+    border-bottom-right-radius: 17px;
 }
 #search-btn{
     padding: 10px 17px 10px 25px;
